@@ -13,6 +13,12 @@ software installation.**
 
 - The _C++ Dev Environment_ (VSCode) is optional (and recommened if you are already familiar with command line tools). 
 
+If you prefer to follow along videos, here are two YouTube vidoes explaining step-by-step how to setup your computer (laptop or desktop) so that you can develop C/C++ programs using VSCode: 
+
+* Windows: [Setup Windows environment for development ](https://www.youtube.com/watch?v=Hn4Z3K8kSrM&t=71s)
+
+* MacOS: [Run C/C++ on VSCode for Windows and Mac](https://www.youtube.com/watch?v=3-9sObAg6R0)
+
 Alternatively, you can use the computer servers in CIS department. Please email the instructor if you don't have access to storm or erdos server. 
 
 ## Programming Requirement
