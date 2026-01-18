@@ -5,13 +5,15 @@ and **practice submitting to autograder system**.
 
 
 ## Programming Environment Setup
-We will set up programming environment our our own computer, by following [Setup Tutorial](https://eecs280staff.github.io/tutorials/). 
+You can set up programming environment on your own computer by following [Setup Tutorial](https://eecs280staff.github.io/tutorials/). 
+**Note that you are recommended to do so, if you use a Linux environment (MacOS or other Linux) already, or are comfortable with
+software installation.**
 
 - The _Commannd Line Tools_ are required. 
 
-- The _C++ Dev Environment_ (VSCode) is highly recommened.
+- The _C++ Dev Environment_ (VSCode) is optional (and recommened if you are already familiar with command line tools). 
 
-**Please follow these tutorials closely and carefully.**
+Alternatively, you can use the computer servers in CIS department. Please email the instructor if you don't have access to storm or erdos server. 
 
 ## Programming Requirement
 
