@@ -6,8 +6,6 @@ and **practice submitting to autograder system**.
 
 ## Programming Environment Setup
 You can set up programming environment on your own computer by following [Setup Tutorial](https://eecs280staff.github.io/tutorials/). 
-**Note that you are recommended to do so, if you use a Linux environment (MacOS or other Linux) already, or are comfortable with
-software installation.**
 
 - The _Commannd Line Tools_ are required. 
 
