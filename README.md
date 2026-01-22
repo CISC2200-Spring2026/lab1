@@ -33,4 +33,4 @@ You are asked to finish the following (i.e., the three Todo's in the IntArray.cp
 
 ## Submission 
 
-Submit your program at the following link by the deadline (TBA) on the following autograder site: (TBA). 
+Submit your program (only the **IntArray.cpp**) on Blackboard (You shouldn't modify the other provided files).
